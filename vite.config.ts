@@ -6,6 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: 'https://g3r4H.github.io/frida-ita-vue',
   plugins: [
     vue({
       template: {

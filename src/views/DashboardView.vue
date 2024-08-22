@@ -23,6 +23,8 @@
 
 <script lang="ts">
 import 'coe-comp-lib'
+
+export default {}
 </script>
 
 <style>
